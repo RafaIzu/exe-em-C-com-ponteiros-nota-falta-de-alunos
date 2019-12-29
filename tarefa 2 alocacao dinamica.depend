@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575332119 source:d:\analise e desenvolvimento de sistemas\linguagem c\alocação dinamica\tarefa 2 alocacao dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
